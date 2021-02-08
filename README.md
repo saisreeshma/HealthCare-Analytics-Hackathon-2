@@ -18,4 +18,4 @@ The evaluation metric for this hackathon is 100*Accuracy Score.
 - Used a Voting Algorithm to finalise prediction
 
 ### Final Accuracy Score is: 0.43
-### Rank in Hackathon: 44
+### Rank in Hackathon: 11
